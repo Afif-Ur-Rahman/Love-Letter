@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 90vh;
+  height: 100vh;
   font-family: "Comic Sans MS", cursive;
   margin: 0;
 }
@@ -16,7 +16,7 @@ body {
   align-items: end;
   height: 50vh;
   overflow: hidden;
-  margin-bottom: 100px;
+  margin-bottom: 200px;
 }
 
 /* Envelope */
